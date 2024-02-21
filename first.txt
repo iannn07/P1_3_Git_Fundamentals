@@ -6,4 +6,4 @@ Change the following line
 
 Kasbon is my hamster, he's very fat
 
-That's how you recover from conflict
+Switching to master
