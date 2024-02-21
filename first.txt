@@ -1,0 +1,7 @@
+This is a file for merge conflict
+
+To make this merge conflict
+
+Change the following line
+
+Lorem Ipsum
