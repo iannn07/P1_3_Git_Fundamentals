@@ -7,3 +7,6 @@ Change the following line
 Kasbon is my hamster, he's very fat
 
 Switching to master
+Switching to super_master
+
+## Conflict 1
