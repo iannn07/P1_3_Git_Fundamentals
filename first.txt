@@ -6,8 +6,5 @@ Change the following line
 
 Kasbon is my hamster, he's very fat
 
-This is Master Code
-
-
-
-This is Sage Code
+Git Reset
+Git Reset
