@@ -4,4 +4,4 @@ To make this merge conflict
 
 Change the following line
 
-Lorem Ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
