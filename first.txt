@@ -10,3 +10,5 @@ Switching to master
 Switching to super_master
 
 ## Conflict 1
+
+Whatever
