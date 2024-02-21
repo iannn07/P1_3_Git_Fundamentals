@@ -4,4 +4,4 @@ To make this merge conflict
 
 Change the following line
 
-Lorem Ipsum
+Kasbon is my hamster, he's very fat
